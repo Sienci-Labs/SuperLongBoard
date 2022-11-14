@@ -48,3 +48,19 @@ Thumbs.db
 *.mov
 *.wmv
 
+*.log
+*.SchDoc.zip
+*.SchDot.zip
+*.PcbDoc.zip
+*.SchLib.zip
+*.PcbLib.zip
+*.OutJob.zip
+*.PrjPCB.zip
+*.SchDocPreview
+*.SchDotPreview
+*.repPreview
+*.csvPreview
+Status Report.txt
+
+History/
+~*.*
