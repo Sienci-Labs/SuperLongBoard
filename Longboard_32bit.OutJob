@@ -72,9 +72,9 @@ Configuration2_Item3=Comment=True|Footprint=True
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Designator=Up|Comment=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=Comment=120|Description=120|Designator=120|Quantity=120|SuppliersPartNumber=100|Supplier=100|Manufacturer=100|Manufacturer Part Number=100
+Configuration2_Item5=Comment=120|Description=120|Designator=120|Quantity=120|SuppliersPartNumber=100|Supplier=100|Manufacturer=100|Manufacturer Part Number=100|Footprint=100
 Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=Comment=120|Description=120|Designator=120|Quantity=120|SuppliersPartNumber=100|Supplier=100|Manufacturer=100|Manufacturer Part Number=100
+Configuration2_Item6=Comment=120|Description=120|Designator=120|Quantity=120|SuppliersPartNumber=100|Supplier=100|Manufacturer=100|Manufacturer Part Number=100|Footprint=100
 
 [PublishSettings]
 OutputFilePath2=C:\Repo\cnc_projects\Sienci_Board\Baord_Files\Schematic\.PDF
