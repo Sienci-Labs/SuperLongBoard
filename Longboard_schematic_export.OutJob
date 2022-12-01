@@ -15,10 +15,10 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=STM32F446RE_CNC_BOARD.OutJob
+Name=Longboard_schematic_export.OutJob
 Description=
 TargetOutputMedium=Schematic and 3D Prints
-VariantName=FULL_PLACE
+VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -56,7 +56,7 @@ OutputMedium12_Type=Publish
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
-OutputDocumentPath1=[Project Physical Documents]
+OutputDocumentPath1=
 OutputVariantName1=Debug
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
@@ -72,7 +72,7 @@ OutputEnabled1_OutputMedium10=0
 OutputEnabled1_OutputMedium11=0
 OutputEnabled1_OutputMedium12=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.72|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType2=Schematic Print
@@ -605,15 +605,15 @@ Configuration19_Name6=VisibleOrder_Flat
 Configuration19_Item6=Quantity=56|Manufacturer Part Number 1=158|Manufacturer 1=213|Description=120|SuppliersPartNumber=121|Package=100|Comment=120|Designator=120|Footprint=208
 
 [PublishSettings]
-OutputFilePath2=D:\Bluebell\cmt-bluebell\Circuit Design\bluebell-RevB\Project Outputs for bluebell-Pod-RevB\bluebell-Pod-RevB_Schematic_B6_VariantName.PDF
+OutputFilePath2=C:\Repo\longboard_stm32\Project Outputs for Longboard_32bit\Schematic and 3D Prints\Longboard_32bit_Schematic_A1_VariantName.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for FLEXI_HAL_2000
+OutputBasePath2=Project Outputs for Longboard_32bit
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=bluebell-RevB.PDF
+OutputFileName2=Longboard_schematic_export.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2==ProjectName+_Schematic+_+VarRevNo+_+VariantName
@@ -634,7 +634,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=Y:\Projects\SBT\CMT\Bluebell\bitbucket\bluebellhw\Circuit Design\bluebell-dvb\Project Outputs for bluebell-dvb\bluebell-dvb Drill Drawing.pdf
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for FLEXI_HAL_2000
+OutputBasePath3=Project Outputs for Longboard_32bit
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -661,7 +661,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Repo\cnc_projects\STM32F446CE_CNC_BOARD\Project Outputs for STM32F446RE_CNC_BOARD\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for FLEXI_HAL_2000
+OutputBasePath4=Project Outputs for Longboard_32bit
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -674,7 +674,7 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 OutputFilePath5=C:\Repo\cnc_projects\STM32F446CE_CNC_BOARD\Project Outputs for FLEXI_HAL_2000\FLEXI_HAL_2000_UPLOAD_GERBERS_A4\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for FLEXI_HAL_2000
+OutputBasePath5=Project Outputs for Longboard_32bit
 OutputPathMedia5==ProjectName+_UPLOAD_GERBERS_+VarRevNo
 OutputPathMediaValue5==ProjectName+_UPLOAD_GERBERS_+VarRevNo
 OutputPathOutputer5=[Output Type]
@@ -687,7 +687,7 @@ OutputFileNameSpecial5=
 OpenOutput5=0
 OutputFilePath6=C:\Repo\cnc_projects\STM32F446CE_CNC_BOARD\Project Outputs for FLEXI_HAL_2000\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for FLEXI_HAL_2000
+OutputBasePath6=Project Outputs for Longboard_32bit
 OutputPathMedia6=
 OutputPathMediaValue6==VariantName
 OutputPathOutputer6=[Output Type]
@@ -700,7 +700,7 @@ OutputFileNameSpecial6=
 OpenOutput6=1
 OutputFilePath9=Y:\Projects\SBT\CMT\Bluebell\bitbucket\bluebellhw\Circuit Design\bluebell-dvb\Project Outputs for bluebell-dvb\bluebell_dvb Assembly Views.PDF
 ReleaseManaged9=1
-OutputBasePath9=Project Outputs for FLEXI_HAL_2000
+OutputBasePath9=Project Outputs for Longboard_32bit
 OutputPathMedia9=
 OutputPathMediaValue9=
 OutputPathOutputer9=[Output Type]
@@ -727,7 +727,7 @@ PDFACompliance9=Disabled
 PDFVersion9=Default
 OutputFilePath10=C:\Repo\cnc_projects\STM32F411CE_CNC_BOARD\Project Outputs for STM32F411CE_CNC_BOARD\
 ReleaseManaged10=1
-OutputBasePath10=Project Outputs for FLEXI_HAL_2000
+OutputBasePath10=Project Outputs for Longboard_32bit
 OutputPathMedia10=
 OutputPathMediaValue10=
 OutputPathOutputer10=
@@ -740,7 +740,7 @@ OutputFileNameSpecial10=
 OpenOutput10=1
 OutputFilePath11=D:\silver-bullet\bluebell_rev_e\bluebell2.0_pod_RevE\Project Outputs for bluebell-Pod-RevE\
 ReleaseManaged11=1
-OutputBasePath11=Project Outputs for FLEXI_HAL_2000
+OutputBasePath11=Project Outputs for Longboard_32bit
 OutputPathMedia11=
 OutputPathMediaValue11=
 OutputPathOutputer11=[Output Type]
@@ -753,7 +753,7 @@ OutputFileNameSpecial11=
 OpenOutput11=1
 OutputFilePath12=D:\silver-bullet\cmt-bluebell\Circuit Design\bluebell-RevE\Project Outputs for bluebell-Pod-RevE\bluebell-RevE.PDF
 ReleaseManaged12=1
-OutputBasePath12=Project Outputs for FLEXI_HAL_2000
+OutputBasePath12=Project Outputs for Longboard_32bit
 OutputPathMedia12=
 OutputPathMediaValue12=
 OutputPathOutputer12=[Output Type]
@@ -780,7 +780,7 @@ PDFACompliance12=Disabled
 PDFVersion12=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Bluebell\cmt-bluebell\Circuit Design\bluebell-RevB\Project Outputs for bluebell-Pod-RevB\bluebell-Pod-RevB_Schematic_B6_VariantName.PDF
+RelativeOutputPath2=C:\Repo\longboard_stm32\Project Outputs for Longboard_32bit\Schematic and 3D Prints\Longboard_32bit_Schematic_A1_VariantName.PDF
 OpenOutputs2=1
 RelativeOutputPath3=Y:\Projects\SBT\CMT\Bluebell\bitbucket\bluebellhw\Circuit Design\bluebell-dvb\Project Outputs for bluebell-dvb\bluebell-dvb Drill Drawing.pdf
 OpenOutputs3=1
