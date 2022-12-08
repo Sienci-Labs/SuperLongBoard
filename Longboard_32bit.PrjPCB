@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Longboard_32bit
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -50,6 +50,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\sienci-libraries\Sienci_Labs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DFPOXXDJ
+
+[Document2]
+DocumentPath=..\sienci-libraries\Sienci_Labs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JFGUJPRS
+
+[Document3]
 DocumentPath=Schematic\Title Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCWMWEML
 
-[Document2]
+[Document4]
 DocumentPath=Schematic\Photocoupler12Vinput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHYSTRCH
 
-[Document3]
+[Document5]
 DocumentPath=Schematic\Longboard_32bit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNJFNLBI
 
-[Document4]
+[Document6]
 DocumentPath=Schematic\I2C_Keypad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWSWJIXT
 
-[Document5]
+[Document7]
 DocumentPath=Schematic\Compute_Module_TOP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPYUWYDS
 
-[Document6]
+[Document8]
 DocumentPath=Schematic\Stepper_driver_group.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOXDIMJD
 
-[Document7]
+[Document9]
 DocumentPath=Schematic\5V_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTACPPTS
 
-[Document8]
+[Document10]
 DocumentPath=Schematic\Aux_Outputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFSDBWIA
 
-[Document9]
+[Document11]
 DocumentPath=Longboard_32bit.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document12]
 DocumentPath=Layout\Longboard_32bit.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUBFUVRQ
 
-[Document11]
+[Document13]
 DocumentPath=Schematic\MCU_STM32F412VGT6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEWGVZJL
 
-[Document12]
+[Document14]
 DocumentPath=Schematic\TMC2660_driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRIXGZAO
 
-[Document13]
+[Document15]
 DocumentPath=Schematic\Block_diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLUAWRHJ
 
-[Document14]
+[Document16]
 DocumentPath=Schematic\Misc_switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNUPIMTR
 
-[Document15]
+[Document17]
 DocumentPath=Schematic\Limit_Switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMXUIJFD
 
-[Document16]
+[Document18]
 DocumentPath=Schematic\DC_Power_Regulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCWRWKCX
 
-[Document17]
+[Document19]
 DocumentPath=Schematic\Spindle_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBXQZZHW
 
-[Document18]
+[Document20]
 DocumentPath=Longboard_32bit.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document21]
 DocumentPath=Schematic\CANBUS_Pendant.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSZOCTAZ
 
-[Document20]
+[Document22]
 DocumentPath=Schematic\Compute_Module_EXT_INTERFACES.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFVSPWXG
 
-[Document21]
+[Document23]
 DocumentPath=Schematic\Compute_Module_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILSMVUBV
 
-[Document22]
+[Document24]
 DocumentPath=Schematic\Compute_Module_CAMERA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIMPENAZ
 
-[Document23]
+[Document25]
 DocumentPath=Schematic\Stepper_driver_group.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,313 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Zener.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FGGVQLSB
-
-[Document25]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VUFMGTSV
-
 [Document26]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NCQHDRRH
-
-[Document27]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_PNP.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WRTBQHMJ
-
-[Document28]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SNXALUAE
-
-[Document29]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HLBESONQ
-
-[Document30]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\MOS.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RNJWUMFL
-
-[Document31]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document32]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\MCU.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JSSXFVPY
-
-[Document33]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SQBERQTN
-
-[Document34]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CCDDGAMC
-
-[Document35]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VMPXMJDM
-
-[Document36]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GQNPVBEG
-
-[Document37]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VITYGUXC
-
-[Document38]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GBUUCOMP
-
-[Document39]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JHFWXUNK
-
-[Document40]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FITEGSRK
-
-[Document41]
-DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VTPOGMYO
-
-[Document42]
 DocumentPath=Schematic\USB_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFADSARB
 
-[Document43]
+[Document27]
 DocumentPath=Schematic\USB_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document28]
 DocumentPath=Schematic\SD_Card_Reader.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUKFKMFU
 
-[Document45]
+[Document29]
 DocumentPath=Schematic\CANBUS_Pendant.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document30]
 DocumentPath=Schematic\SD_Card_Reader.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document31]
 DocumentPath=Schematic\Relay_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFZWKFDK
 
-[Document48]
+[Document32]
 DocumentPath=Schematic\Neopixel_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMBLDPIG
 
-[Document49]
+[Document33]
 DocumentPath=Schematic\External_Stepper.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNKJYLOJ
 
-[Document50]
+[Document34]
 DocumentPath=Schematic\5V_Digital_Out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,8 +627,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOJLANYN
 
-[Document51]
-DocumentPath=Schematic\5V_Digital_In.SchDoc
+[Document35]
+DocumentPath=Schematic\3V3_Digital_Out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -916,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVKHSYWD
 
-[Document52]
+[Document36]
 DocumentPath=Schematic\Transistor_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYUNREXE
 
-[Document53]
+[Document37]
 DocumentPath=Schematic\RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHLBETMB
 
-[Document54]
+[Document38]
 DocumentPath=Schematic\Change Log.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGMPIWUA
 
-[Document55]
+[Document39]
 DocumentPath=Longboard_schematic_export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document40]
 DocumentPath=Schematic\Longboard_32bit.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document41]
 DocumentPath=Schematic\Compute_Module_TOP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,84 +746,55 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document42]
+DocumentPath=Schematic\Longboard_32bit.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NTSADAYJ
+
 [ProjectVariant1]
 UniqueID=2FD7A5CA-1890-45CB-96AB-94166B7423FD
 Description=SMT_ONLY
 AllowFabrication=1
 ParameterCount=0
-VariationCount=72
-Variation1=Designator=P4|UniqueId=\CLHLEQTW|Kind=1|AlternatePart= 
-Variation2=Designator=P7|UniqueId=\SWRYQPMY|Kind=1|AlternatePart= 
-Variation3=Designator=P10|UniqueId=\AVYTGRGK|Kind=1|AlternatePart= 
-Variation4=Designator=P8|UniqueId=\WPJDROXO\NGEYBBQW|Kind=1|AlternatePart= 
-Variation5=Designator=P6|UniqueId=\AEWYKKVC\YJXVXNNB|Kind=1|AlternatePart= 
-Variation6=Designator=P5|UniqueId=\GNDFTSGX|Kind=1|AlternatePart= 
-Variation7=Designator=P9|UniqueId=\AEWYKKVC\LOHNHOUJ|Kind=1|AlternatePart= 
-Variation8=Designator=J1_LS_A|UniqueId=\IXIEHKVX\MYHOHJGJ\ANGQNQZL|Kind=1|AlternatePart= 
-Variation9=Designator=J2_LS_A|UniqueId=\IXIEHKVX\MYHOHJGJ\LLOXCLEA|Kind=1|AlternatePart= 
-Variation10=Designator=J1_LS_X|UniqueId=\IXIEHKVX\QKNFUXLZ\ANGQNQZL|Kind=1|AlternatePart= 
-Variation11=Designator=J2_LS_X|UniqueId=\IXIEHKVX\QKNFUXLZ\LLOXCLEA|Kind=1|AlternatePart= 
-Variation12=Designator=J1_LS_Y|UniqueId=\IXIEHKVX\MKFJHHAW\ANGQNQZL|Kind=1|AlternatePart= 
-Variation13=Designator=J2_LS_Y|UniqueId=\IXIEHKVX\MKFJHHAW\LLOXCLEA|Kind=1|AlternatePart= 
-Variation14=Designator=J1_LS_Z|UniqueId=\IXIEHKVX\KHADMLTZ\ANGQNQZL|Kind=1|AlternatePart= 
-Variation15=Designator=J2_LS_Z|UniqueId=\IXIEHKVX\KHADMLTZ\LLOXCLEA|Kind=1|AlternatePart= 
-Variation16=Designator=J3_PH_CY|UniqueId=\VBDBWIMZ\QKCTCKJR\RORFSPUA|Kind=1|AlternatePart= 
-Variation17=Designator=J3_PH_FD|UniqueId=\VBDBWIMZ\TTZJSGYQ\RORFSPUA|Kind=1|AlternatePart= 
-Variation18=Designator=J3_PH_HLT|UniqueId=\VBDBWIMZ\WLRSLPYH\RORFSPUA|Kind=1|AlternatePart= 
-Variation19=Designator=J3_PH_PR|UniqueId=\VBDBWIMZ\DZYYXPBZ\RORFSPUA|Kind=1|AlternatePart= 
-Variation20=Designator=P13|UniqueId=\AEWYKKVC\ORBAKNCP|Kind=1|AlternatePart= 
-Variation21=Designator=P2|UniqueId=\AEWYKKVC\VIEREVOU|Kind=1|AlternatePart= 
-Variation22=Designator=P3|UniqueId=\AEWYKKVC\SKBGCGPU|Kind=1|AlternatePart= 
-Variation23=Designator=U30|UniqueId=\WIRRTQQZ|Kind=1|AlternatePart= 
-Variation24=Designator=J4|UniqueId=\PSGPEFFL|Kind=1|AlternatePart= 
-Variation25=Designator=P20|UniqueId=\QEAKSBUM|Kind=1|AlternatePart= 
-Variation26=Designator=P19|UniqueId=\SMDNPFLB|Kind=1|AlternatePart= 
-Variation27=Designator=P18|UniqueId=\JBEOSCAH|Kind=1|AlternatePart= 
-Variation28=Designator=P12|UniqueId=\AEWYKKVC\QOCVVYDI|Kind=1|AlternatePart= 
-Variation29=Designator=J8|UniqueId=\AEWYKKVC\KMKPWJTZ|Kind=1|AlternatePart= 
-Variation30=Designator=P16|UniqueId=\AEWYKKVC\XBREDAKF|Kind=1|AlternatePart= 
-Variation31=Designator=P14|UniqueId=\MEHNARCD\GNAEVRXL|Kind=1|AlternatePart= 
-Variation32=Designator=P11|UniqueId=\MEHNARCD\EEXKNDXR|Kind=1|AlternatePart= 
-Variation33=Designator=J6|UniqueId=\TPPCBOLE\ZIPKVQMN|Kind=1|AlternatePart= 
-Variation34=Designator=P21|UniqueId=\HQCEVMKR\QGRTTTIM|Kind=1|AlternatePart= 
-Variation35=Designator=P22|UniqueId=\HQCEVMKR\TAASCSRK|Kind=1|AlternatePart= 
-Variation36=Designator=P23|UniqueId=\HQCEVMKR\QGSRDYPA|Kind=1|AlternatePart= 
-Variation37=Designator=P24|UniqueId=\HQCEVMKR\ZEICQGQK|Kind=1|AlternatePart= 
-Variation38=Designator=P25|UniqueId=\HQCEVMKR\ZABRPFFW|Kind=1|AlternatePart= 
-Variation39=Designator=P7|UniqueId=\AFAOVGNO\AVJMJVBI|Kind=1|AlternatePart= 
-Variation40=Designator=P10|UniqueId=\AFAOVGNO\AVYTGRGK|Kind=1|AlternatePart= 
-Variation41=Designator=A1|UniqueId=\AFAOVGNO\EYLMGJDL|Kind=1|AlternatePart= 
-Variation42=Designator=P19|UniqueId=\AFAOVGNO\SMDNPFLB|Kind=1|AlternatePart= 
-Variation43=Designator=P5|UniqueId=\AFAOVGNO\GNDFTSGX|Kind=1|AlternatePart= 
-Variation44=Designator=P17|UniqueId=\AFAOVGNO\NOTJKAOO|Kind=1|AlternatePart= 
-Variation45=Designator=P1|UniqueId=\AFAOVGNO\PNHPFMIE|Kind=1|AlternatePart= 
-Variation46=Designator=P20|UniqueId=\AFAOVGNO\QEAKSBUM|Kind=1|AlternatePart= 
-Variation47=Designator=P4|UniqueId=\AFAOVGNO\CLHLEQTW|Kind=1|AlternatePart= 
-Variation48=Designator=J7|UniqueId=\AFAOVGNO\XOHYKXYB|Kind=1|AlternatePart= 
-Variation49=Designator=J9|UniqueId=\AFAOVGNO\IXIEHKVX\BDSDUACA|Kind=1|AlternatePart= 
-Variation50=Designator=J3_PH_CY|UniqueId=\AFAOVGNO\VBDBWIMZ\QKCTCKJR\RORFSPUA|Kind=1|AlternatePart= 
-Variation51=Designator=P6|UniqueId=\AFAOVGNO\AEWYKKVC\YJXVXNNB|Kind=1|AlternatePart= 
-Variation52=Designator=P9|UniqueId=\AFAOVGNO\AEWYKKVC\LOHNHOUJ|Kind=1|AlternatePart= 
-Variation53=Designator=J8|UniqueId=\AFAOVGNO\AEWYKKVC\KMKPWJTZ|Kind=1|AlternatePart= 
-Variation54=Designator=P16|UniqueId=\AFAOVGNO\AEWYKKVC\XBREDAKF|Kind=1|AlternatePart= 
-Variation55=Designator=P13|UniqueId=\AFAOVGNO\AEWYKKVC\ORBAKNCP|Kind=1|AlternatePart= 
-Variation56=Designator=P2|UniqueId=\AFAOVGNO\AEWYKKVC\VIEREVOU|Kind=1|AlternatePart= 
-Variation57=Designator=P3|UniqueId=\AFAOVGNO\AEWYKKVC\SKBGCGPU|Kind=1|AlternatePart= 
-Variation58=Designator=P12|UniqueId=\AFAOVGNO\AEWYKKVC\QOCVVYDI|Kind=1|AlternatePart= 
-Variation59=Designator=P14|UniqueId=\AFAOVGNO\MEHNARCD\GNAEVRXL|Kind=1|AlternatePart= 
-Variation60=Designator=P11|UniqueId=\AFAOVGNO\MEHNARCD\EEXKNDXR|Kind=1|AlternatePart= 
-Variation61=Designator=J6|UniqueId=\AFAOVGNO\TPPCBOLE\ZIPKVQMN|Kind=1|AlternatePart= 
-Variation62=Designator=P21|UniqueId=\AFAOVGNO\HQCEVMKR\YASUOAWW|Kind=1|AlternatePart= 
-Variation63=Designator=P22|UniqueId=\AFAOVGNO\HQCEVMKR\CACAYKKJ|Kind=1|AlternatePart= 
-Variation64=Designator=P23|UniqueId=\AFAOVGNO\HQCEVMKR\HDRZTIOW|Kind=1|AlternatePart= 
-Variation65=Designator=P24|UniqueId=\AFAOVGNO\HQCEVMKR\RVAJAXQJ|Kind=1|AlternatePart= 
-Variation66=Designator=P25|UniqueId=\AFAOVGNO\HQCEVMKR\ZKLXQTMZ|Kind=1|AlternatePart= 
-Variation67=Designator=P8|UniqueId=\AFAOVGNO\WPJDROXO\NGEYBBQW|Kind=0|AlternatePart= 
-Variation68=Designator=P26|UniqueId=\AFAOVGNO\HSHSNTTZ\RYQXSRSD|Kind=1|AlternatePart= 
-Variation69=Designator=P27|UniqueId=\AFAOVGNO\HSHSNTTZ\YZHHDEBL|Kind=1|AlternatePart= 
-Variation70=Designator=P28|UniqueId=\AFAOVGNO\HSHSNTTZ\QQXXQBXU|Kind=1|AlternatePart= 
-Variation71=Designator=P29|UniqueId=\AFAOVGNO\HSHSNTTZ\OMRSCNCJ|Kind=1|AlternatePart= 
-Variation72=Designator=R?|UniqueId=\AFAOVGNO\ZYPAOYNB|Kind=1|AlternatePart= 
+VariationCount=26
+Variation1=Designator=P4|UniqueId=\CPSRESAS\LBDBXHFT\KFOQRNFI|Kind=1|AlternatePart= 
+Variation2=Designator=P7|UniqueId=\CPSRESAS\QPQVTEPN\XBREDAKF|Kind=1|AlternatePart= 
+Variation3=Designator=P10|UniqueId=\CPSRESAS\ANCOQXVH\HEIEQPXZ|Kind=1|AlternatePart= 
+Variation4=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
+Variation5=Designator=P6|UniqueId=\CPSRESAS\QPQVTEPN\LOHNHOUJ|Kind=1|AlternatePart= 
+Variation6=Designator=P5|UniqueId=\CPSRESAS\LBDBXHFT\ORLQWBLU|Kind=1|AlternatePart= 
+Variation7=Designator=P9|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\GNAEVRXL|Kind=1|AlternatePart= 
+Variation8=Designator=P13|UniqueId=\CPSRESAS\ANCOQXVH\LAIMFAUR|Kind=1|AlternatePart= 
+Variation9=Designator=P2|UniqueId=\CPSRESAS\LBDBXHFT\XMYTHICW|Kind=1|AlternatePart= 
+Variation10=Designator=P3|UniqueId=\CPSRESAS\LBDBXHFT\PKPYGAXZ|Kind=1|AlternatePart= 
+Variation11=Designator=U30|UniqueId=\CPSRESAS\ANCOQXVH\JCUXJMMN\CRIAPHLF|Kind=1|AlternatePart= 
+Variation12=Designator=J4|UniqueId=\CPSRESAS\SMURALDA\MESFOYXC|Kind=1|AlternatePart= 
+Variation13=Designator=P20|UniqueId=\CPSRESAS\ANCOQXVH\JCUXJMMN\VOPJHVPF|Kind=1|AlternatePart= 
+Variation14=Designator=P19|UniqueId=\CPSRESAS\ANCOQXVH\DYBXXQUP\KPLOJKHU|Kind=1|AlternatePart= 
+Variation15=Designator=P12|UniqueId=\CPSRESAS\ANCOQXVH\MFNATIYO|Kind=1|AlternatePart= 
+Variation16=Designator=J8|UniqueId=\CPSRESAS\SMURALDA\EPJZDOTA|Kind=1|AlternatePart= 
+Variation17=Designator=P16|UniqueId=\CPSRESAS\GEQXKKUU\LGAYMBJA|Kind=1|AlternatePart= 
+Variation18=Designator=P14|UniqueId=\CPSRESAS\ANCOQXVH\JJDEXAUA|Kind=1|AlternatePart= 
+Variation19=Designator=P11|UniqueId=\CPSRESAS\ANCOQXVH\QMKSNCII|Kind=1|AlternatePart= 
+Variation20=Designator=J6|UniqueId=\CPSRESAS\SMURALDA\ADLXLQUQ|Kind=1|AlternatePart= 
+Variation21=Designator=P17|UniqueId=\CPSRESAS\GEQXKKUU\IQRIISZR|Kind=1|AlternatePart= 
+Variation22=Designator=P1|UniqueId=\CPSRESAS\FJOYGKKV\YUHUBYOJ|Kind=1|AlternatePart= 
+Variation23=Designator=J7|UniqueId=\CPSRESAS\SMURALDA\AUJNZJPK|Kind=1|AlternatePart= 
+Variation24=Designator=J9|UniqueId=\CPSRESAS\QPQVTEPN\KMKPWJTZ|Kind=1|AlternatePart= 
+Variation25=Designator=R9|UniqueId=\CPSRESAS\SMURALDA\XUPQKWMK|Kind=1|AlternatePart= 
+Variation26=Designator=R1|UniqueId=\CPSRESAS\FJOYGKKV\BZTDRCKT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -1103,22 +802,28 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
-Variation1=Designator=U30|UniqueId=\WIRRTQQZ|Kind=1|AlternatePart= 
-Variation2=Designator=P8|UniqueId=\WPJDROXO\NGEYBBQW|Kind=1|AlternatePart= 
-Variation3=Designator=R?|UniqueId=\AFAOVGNO\ZYPAOYNB|Kind=1|AlternatePart= 
-Variation4=Designator=P18|UniqueId=\AFAOVGNO\WPJDROXO\GOXQWLWV|Kind=1|AlternatePart= 
-Variation5=Designator=R43|UniqueId=\CPSRESAS\ZYPAOYNB|Kind=1|AlternatePart= 
-Variation6=Designator=P18|UniqueId=\CPSRESAS\WPJDROXO\GOXQWLWV|Kind=1|AlternatePart= 
-Variation7=Designator=P8|UniqueId=\CPSRESAS\WPJDROXO\NGEYBBQW|Kind=1|AlternatePart= 
+VariationCount=5
+Variation1=Designator=U30|UniqueId=\CPSRESAS\ANCOQXVH\JCUXJMMN\CRIAPHLF|Kind=1|AlternatePart= 
+Variation2=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
+Variation3=Designator=R43|UniqueId=\CPSRESAS\QPQVTEPN\ZGHKVPRW|Kind=1|AlternatePart= 
+Variation4=Designator=R9|UniqueId=\CPSRESAS\SMURALDA\XUPQKWMK|Kind=1|AlternatePart= 
+Variation5=Designator=R1|UniqueId=\CPSRESAS\FJOYGKKV\BZTDRCKT|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Longboard_32bit\BOM\Bill of Materials-Longboard_32bit_A1_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Longboard_32bit\BOM\Bill of Materials-Longboard_32bit_A2_FULL_PLACE.xlsx
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\AD17\Library\*.*
 IncludeSubFolders=1
 
 [SearchPath2]
-Path=..\templates\*.*
+Path=..\sienci-libraries\templates\*.*
 IncludeSubFolders=1
 
 [SearchPath3]
@@ -1130,20 +835,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
+Name=VarRevNo
+Value=A2
 
 [Parameter2]
-Name=PCBREVNO
-Value=A1
-
-[Parameter3]
 Name=Title
 Value=Sienci Longboard
 
+[Parameter3]
+Name=PCBREVNO
+Value=A2
+
 [Parameter4]
-Name=VarRevNo
-Value=A1
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration
@@ -1312,7 +1017,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=Project Outputs for Longboard_32bit
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1428,7 +1133,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPI64BC3F (HP LaserJet M1536dnf MFP)
+TargetPrinter=HPD320F2 (HP OfficeJet Pro 6970)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1717,7 +1422,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=NPI64BC3F (HP LaserJet M1536dnf MFP)
+TargetPrinter=HPD320F2 (HP OfficeJet Pro 6970)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1801,97 +1506,97 @@ OutputName2=Text Print
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType3=Text Print
 OutputName3=Text Print
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Text Print
 OutputName4=Text Print
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=Text Print
 OutputName5=Text Print
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=Text Print
 OutputName6=Text Print
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType7=Text Print
 OutputName7=Text Print
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType8=Text Print
 OutputName8=Text Print
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=Text Print
 OutputName9=Text Print
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType10=Text Print
 OutputName10=Text Print
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType11=Text Print
 OutputName11=Text Print
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Text Print
 OutputName12=Text Print
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType13=Text Print
 OutputName13=Text Print
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType14=Text Print
 OutputName14=Text Print
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType15=Text Print
 OutputName15=Text Print
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType16=Text Print
 OutputName16=Text Print
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType17=Text Print
 OutputName17=Text Print
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -1997,11 +1702,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=AnsysEDB
-OutputName12=Ansys EDB
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
