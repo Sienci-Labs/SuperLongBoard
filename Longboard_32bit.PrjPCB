@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Longboard_32bit
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JFGUJPRS
 
 [Document3]
+DocumentPath=Schematic\Board_Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=65
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXXDELYC
+
+[Document4]
 DocumentPath=Schematic\Title Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCWMWEML
 
-[Document4]
+[Document5]
 DocumentPath=Schematic\Photocoupler12Vinput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHYSTRCH
 
-[Document5]
+[Document6]
 DocumentPath=Schematic\Longboard_32bit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNJFNLBI
 
-[Document6]
+[Document7]
 DocumentPath=Schematic\I2C_Keypad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWSWJIXT
 
-[Document7]
+[Document8]
 DocumentPath=Schematic\Compute_Module_TOP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPYUWYDS
 
-[Document8]
+[Document9]
 DocumentPath=Schematic\Stepper_driver_group.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOXDIMJD
 
-[Document9]
+[Document10]
 DocumentPath=Schematic\5V_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTACPPTS
 
-[Document10]
+[Document11]
 DocumentPath=Schematic\Aux_Outputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFSDBWIA
 
-[Document11]
+[Document12]
 DocumentPath=Longboard_32bit.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=Layout\Longboard_32bit.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,9 +268,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DUBFUVRQ
+DocumentUniqueId=FJMIWPDL
 
-[Document13]
+[Document14]
 DocumentPath=Schematic\MCU_STM32F412VGT6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEWGVZJL
 
-[Document14]
+[Document15]
 DocumentPath=Schematic\TMC2660_driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRIXGZAO
 
-[Document15]
+[Document16]
 DocumentPath=Schematic\Block_diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLUAWRHJ
 
-[Document16]
+[Document17]
 DocumentPath=Schematic\Misc_switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNUPIMTR
 
-[Document17]
+[Document18]
 DocumentPath=Schematic\Limit_Switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMXUIJFD
 
-[Document18]
+[Document19]
 DocumentPath=Schematic\DC_Power_Regulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCWRWKCX
 
-[Document19]
+[Document20]
 DocumentPath=Schematic\Spindle_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBXQZZHW
 
-[Document20]
+[Document21]
 DocumentPath=Longboard_32bit.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=Schematic\CANBUS_Pendant.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSZOCTAZ
 
-[Document22]
+[Document23]
 DocumentPath=Schematic\Compute_Module_EXT_INTERFACES.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFVSPWXG
 
-[Document23]
+[Document24]
 DocumentPath=Schematic\Compute_Module_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILSMVUBV
 
-[Document24]
+[Document25]
 DocumentPath=Schematic\Compute_Module_CAMERA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIMPENAZ
 
-[Document25]
+[Document26]
 DocumentPath=Schematic\Stepper_driver_group.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=Schematic\USB_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFADSARB
 
-[Document27]
+[Document28]
 DocumentPath=Schematic\USB_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Schematic\SD_Card_Reader.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUKFKMFU
 
-[Document29]
+[Document30]
 DocumentPath=Schematic\CANBUS_Pendant.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=Schematic\SD_Card_Reader.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Schematic\Relay_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFZWKFDK
 
-[Document32]
+[Document33]
 DocumentPath=Schematic\Neopixel_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMBLDPIG
 
-[Document33]
+[Document34]
 DocumentPath=Schematic\External_Stepper.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNKJYLOJ
 
-[Document34]
+[Document35]
 DocumentPath=Schematic\5V_Digital_Out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOJLANYN
 
-[Document35]
+[Document36]
 DocumentPath=Schematic\3V3_Digital_Out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVKHSYWD
 
-[Document36]
+[Document37]
 DocumentPath=Schematic\Transistor_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYUNREXE
 
-[Document37]
+[Document38]
 DocumentPath=Schematic\RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHLBETMB
 
-[Document38]
+[Document39]
 DocumentPath=Schematic\Change Log.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGMPIWUA
 
-[Document39]
+[Document40]
 DocumentPath=Longboard_schematic_export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=Schematic\Longboard_32bit.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=Schematic\Compute_Module_TOP.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,23 +762,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document42]
-DocumentPath=Schematic\Board_Diagram.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=65
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YXXDELYC
 
 [ProjectVariant1]
 UniqueID=2FD7A5CA-1890-45CB-96AB-94166B7423FD
@@ -831,20 +831,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
+Name=VarRevNo
+Value=A3
 
 [Parameter2]
-Name=PCBREVNO
-Value=A2
-
-[Parameter3]
 Name=Title
 Value=Sienci Longboard
 
+[Parameter3]
+Name=PCBREVNO
+Value=A3
+
 [Parameter4]
-Name=VarRevNo
-Value=A2
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration
@@ -1013,7 +1013,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Longboard_32bit
 
 [OutputGroup1]
 Name=Netlist Outputs
