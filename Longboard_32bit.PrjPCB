@@ -762,6 +762,14 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for Longboard_32bit\BOM\Bill of Materials-Longboard_32bit_A2_FULL_PLACE.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_A3_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_A4_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\AD17\Library\*.*
 IncludeSubFolders=1
@@ -779,20 +787,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
+Name=VarRevNo
+Value=A4
 
 [Parameter2]
-Name=PCBREVNO
-Value=A3
-
-[Parameter3]
 Name=Title
 Value=Sienci Longboard
 
+[Parameter3]
+Name=PCBREVNO
+Value=A4
+
 [Parameter4]
-Name=VarRevNo
-Value=A3
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration

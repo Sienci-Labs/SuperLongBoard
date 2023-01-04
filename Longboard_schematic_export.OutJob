@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Longboard_schematic_export.OutJob
 Description=
-TargetOutputMedium=Schematic and 3D Prints
+TargetOutputMedium=BOM
 VariantName=FULL_PLACE
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=HPD320F2 (HP OfficeJet Pro 6970)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -58,7 +58,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=Debug
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -167,7 +167,7 @@ OutputName4=PCB 3D Print Top
 OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=Production
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=2
 OutputEnabled4_OutputMedium3=0
@@ -189,7 +189,7 @@ OutputName5=PCB 3D Print Bottom
 OutputCategory5=Documentation
 OutputDocumentPath5=
 OutputVariantName5=Production
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=3
 OutputEnabled5_OutputMedium3=0
@@ -576,7 +576,7 @@ OutputName19=JLPCB BOM
 OutputCategory19=Report
 OutputDocumentPath19=
 OutputVariantName19=
-OutputEnabled19=0
+OutputEnabled19=1
 OutputEnabled19_OutputMedium1=0
 OutputEnabled19_OutputMedium2=0
 OutputEnabled19_OutputMedium3=0
@@ -600,9 +600,9 @@ Configuration19_Item3=Comment=True|Footprint=True
 Configuration19_Name4=SortOrder
 Configuration19_Item4=Designator=Up
 Configuration19_Name5=VisibleOrder
-Configuration19_Item5=Quantity=56|Manufacturer Part Number 1=158|Manufacturer 1=213|Description=120|SuppliersPartNumber=121|Package=100|Comment=120|Designator=120|Footprint=208
+Configuration19_Item5=Quantity=56|Manufacturer Part Number=100|Manufacturer=100|Description=120|SuppliersPartNumber=121|Comment=120|Designator=120
 Configuration19_Name6=VisibleOrder_Flat
-Configuration19_Item6=Quantity=56|Manufacturer Part Number 1=158|Manufacturer 1=213|Description=120|SuppliersPartNumber=121|Package=100|Comment=120|Designator=120|Footprint=208
+Configuration19_Item6=Quantity=56|Manufacturer Part Number=100|Manufacturer=100|Description=120|SuppliersPartNumber=121|Comment=120|Designator=120
 
 [PublishSettings]
 OutputFilePath2=C:\Repo\longboard_stm32\Project Outputs for Longboard_32bit\Schematic and 3D Prints\Longboard_32bit_Schematic_A1_VariantName.PDF
@@ -685,7 +685,7 @@ OutputFileNameMulti5==ProjectName+_CAM_OUTPUT_+VarRevNo
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=0
-OutputFilePath6=C:\Repo\cnc_projects\STM32F446CE_CNC_BOARD\Project Outputs for FLEXI_HAL_2000\
+OutputFilePath6=F:\Sienci\Repos\longboard_stm32\Project Outputs for Longboard_32bit\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for Longboard_32bit
 OutputPathMedia6=
@@ -804,7 +804,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=C:\Repo\cnc_projects\STM32F446CE_CNC_BOARD\Project Outputs for FLEXI_HAL_2000\
+RelativeOutputPath6=F:\Sienci\Repos\longboard_stm32\Project Outputs for Longboard_32bit\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
