@@ -751,11 +751,12 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=5
 Variation1=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
-Variation2=Designator=R9|UniqueId=\CPSRESAS\SMURALDA\XUPQKWMK|Kind=1|AlternatePart= 
+Variation2=Designator=R9|UniqueId=\CPSRESAS\SMURALDA\XUPQKWMK|Kind=0|AlternatePart= 
 Variation3=Designator=R1|UniqueId=\CPSRESAS\FJOYGKKV\BZTDRCKT|Kind=1|AlternatePart= 
 Variation4=Designator=P9|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\GNAEVRXL|Kind=1|AlternatePart= 
+Variation5=Designator=R10|UniqueId=\CPSRESAS\SMURALDA\HDCLCXLG|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -787,20 +788,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
-
-[Parameter2]
-Name=PCBREVNO
+Name=VarRevNo
 Value=A4
 
-[Parameter3]
+[Parameter2]
 Name=Title
 Value=Sienci Longboard
 
-[Parameter4]
-Name=VarRevNo
+[Parameter3]
+Name=PCBREVNO
 Value=A4
+
+[Parameter4]
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration
