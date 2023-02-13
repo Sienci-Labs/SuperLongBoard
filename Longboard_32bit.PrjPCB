@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Longboard_32bit
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -784,6 +784,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_A4_FULL_PLACE.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Longboard_32bit\Longboard_32bit.cvg
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\AD17\Library\*.*
 IncludeSubFolders=1
@@ -801,20 +805,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=VarRevNo
-Value=A4
-
-[Parameter2]
-Name=Title
+Name=PCBPARTNO
 Value=Sienci Longboard
 
-[Parameter3]
+[Parameter2]
 Name=PCBREVNO
 Value=A4
 
-[Parameter4]
-Name=PCBPARTNO
+[Parameter3]
+Name=Title
 Value=Sienci Longboard
+
+[Parameter4]
+Name=VarRevNo
+Value=A4
 
 [Configuration1]
 Name=Default Configuration
@@ -983,7 +987,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=Project Outputs for Longboard_32bit
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1312,73 +1316,77 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=NPI64BC3F (HP LaserJet M1536dnf MFP)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Test Points
-OutputName1=Test Point Report
+OutputType1=Drill
+OutputName1=Drill Drawing/Guides
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=Plane
-OutputName2=Power-Plane Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType2=Final
+OutputName2=Final Artwork Prints
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
-OutputType3=ODB
-OutputName3=ODB++ Files
+OutputType3=CompositeDrill
+OutputName3=Composite Drill Drawing
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-OutputType4=IPC2581
-OutputName4=IPC-2581 Files
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType4=Mask
+OutputName4=Solder/Paste Mask Prints
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=Gerber X2
-OutputName5=Gerber X2 Files
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+OutputType5=NC Drill
+OutputName5=NC Drill Files
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType6=Board Stack Report
 OutputName6=Report Board Stack
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType7=Final
-OutputName7=Final Artwork Prints
+OutputType7=Plane
+OutputName7=Power-Plane Prints
 OutputDocumentPath7=
-OutputVariantName7=[No Variations]
+OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
-OutputType8=Drill
-OutputName8=Drill Drawing/Guides
+OutputType8=Test Points
+OutputName8=Test Point Report
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
-OutputType9=CompositeDrill
-OutputName9=Composite Drill Drawing
+OutputType9=ODB
+OutputName9=ODB++ Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
-OutputType10=NC Drill
-OutputName10=NC Drill Files
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-Configuration10_Name1=ForceUpdateSettings
-Configuration10_Item1=False
-Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
-OutputType11=Mask
-OutputName11=Solder/Paste Mask Prints
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+Configuration11_Name1=ForceUpdateSettings
+Configuration11_Item1=False
+Configuration11_Name2=OutputConfigurationParameter1
+Configuration11_Item2=Record=IPC2581View|IPC2581Version=B|MeasurementSystem=Metric|FloatingPointPrecision=6|IsWiseSupport=False|MergeNetTieNets=False|OEMDesignNumberRef=DesignItemID|DocumentPath=C:\Repo\longboard_stm32\Layout\Longboard_32bit.pcbdoc
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
