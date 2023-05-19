@@ -1,0 +1,7 @@
+While running 100mm diamond pattern (all motors move at once.)
+SDS00001 - Yellow Cap near X driver, Purple Cap near Y2 Driver
+SDS00002 to SDS00007 - Yellow R68, Purple R67
+SDS00008 to SDS00010 - Same nets as above, other side of L13
+SDS00011 - Add blue on R68, Green on R67. Nothing running.
+SDS00012 to SDS00014 - Same as 11, but running steppers only.
+SDS00015 to SDS00023 - Same as above, spindle running.
