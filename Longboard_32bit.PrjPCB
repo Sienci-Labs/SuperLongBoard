@@ -880,7 +880,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RNJWUMFL
 
 [Document50]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
@@ -999,7 +999,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VITYGUXC
 
 [Document57]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
@@ -1145,20 +1145,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=VarRevNo
-Value=B1
-
-[Parameter2]
-Name=Title
+Name=PCBPARTNO
 Value=Sienci Longboard
 
-[Parameter3]
+[Parameter2]
 Name=PCBREVNO
 Value=B1
 
-[Parameter4]
-Name=PCBPARTNO
+[Parameter3]
+Name=Title
 Value=Sienci Longboard
+
+[Parameter4]
+Name=VarRevNo
+Value=B1
 
 [Configuration1]
 Name=Default Configuration
@@ -2021,36 +2021,6 @@ OutputName12=Ansys EDB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2968,65 +2938,66 @@ Net20=NetName=CONN_12V_LS_Z|NetColor=$00FF6EFF
 Net21=NetName=FLASH_VDD|NetColor=$0000BE00
 Net22=NetName=GND|NetColor=$00009CFF
 Net23=NetName=INPUT_GND|NetColor=$00FF6E6E
-Net24=NetName=INPUT_VCC_24V|NetColor=$00FF6EFF
-Net25=NetName=INPUT_VCC_24V0|NetColor=$00FF6E6E
-Net26=NetName=INPUT_VCC_5V0|NetColor=$00FF6EFF
-Net27=NetName=ISO_3.3V|NetColor=$00FFFF6E
-Net28=NetName=ISO_3.3V_LS_A|NetColor=$00FFFF6E
-Net29=NetName=ISO_3.3V_LS_B|NetColor=$00FFFF6E
-Net30=NetName=ISO_3.3V_LS_X|NetColor=$00FFFF6E
-Net31=NetName=ISO_3.3V_LS_Y|NetColor=$00FFFF6E
-Net32=NetName=ISO_3.3V_LS_Z|NetColor=$00FFFF6E
-Net33=NetName=ISO_3.3V_PH_CY|NetColor=$00FFFF6E
-Net34=NetName=ISO_3.3V_PH_DR|NetColor=$00FFFF6E
-Net35=NetName=ISO_3.3V_PH_FD|NetColor=$00FFFF6E
-Net36=NetName=ISO_3.3V_PH_HLT|NetColor=$00FFFF6E
-Net37=NetName=LED+|NetColor=$00FFFF6E
-Net38=NetName=MCU_GND|NetColor=$0000BE00
-Net39=NetName=MOTOR_VCC_24V|NetColor=$006E6EFF
-Net40=NetName=NetC128_2|NetColor=$00FF6E6E
-Net41=NetName=NetD1_A|NetColor=$00FFFF6E
-Net42=NetName=NetD17_A|NetColor=$00FFFF6E
-Net43=NetName=NetD18_A|NetColor=$00FFFF6E
-Net44=NetName=NetD24_A|NetColor=$00FFFF6E
-Net45=NetName=NetD25_A|NetColor=$00FFFF6E
-Net46=NetName=NetD26_A|NetColor=$00FFFF6E
-Net47=NetName=NetD4_A|NetColor=$00FFFF6E
-Net48=NetName=NetD6_A|NetColor=$00FFFF6E
-Net49=NetName=NetD7_A|NetColor=$00FFFF6E
-Net50=NetName=OSCIN|NetColor=clYellow
-Net51=NetName=OSCOUT|NetColor=clYellow
-Net52=NetName=POWER_OUT_5V|NetColor=$00FF6EFF
-Net53=NetName=PWR_IN_24V|NetColor=$00FF6E6E
-Net54=NetName=RELAY_VCC|NetColor=$000083FD
-Net55=NetName=SCK|NetColor=clYellow
-Net56=NetName=SCK_STEP_X|NetColor=clYellow
-Net57=NetName=SENSOR_VDD|NetColor=$00B0B0B0
-Net58=NetName=SENSOR_VDD_FL|NetColor=$00B0B0B0
-Net59=NetName=SOLAR_OUT|NetColor=$00FF6E6E
-Net60=NetName=SPI2.SPI_CLK|NetColor=clYellow
-Net61=NetName=SPI2_CK|NetColor=clYellow
-Net62=NetName=STEPPER_VCC|NetColor=$0000BE00
-Net63=NetName=STM_NRST|NetColor=clYellow
-Net64=NetName=STP_SCK|NetColor=clYellow
-Net65=NetName=SYS|NetColor=$00FFFF6E
-Net66=NetName=USB_VBUS|NetColor=$00322760
-Net67=NetName=USB1|NetColor=clYellow
-Net68=NetName=USB2|NetColor=clYellow
-Net69=NetName=VBAT_ISP|NetColor=$004C9AF5
-Net70=NetName=VBAT_LOAD|NetColor=$00FF6E6E
-Net71=NetName=VBAT_SENSED|NetColor=$006EFF6E
-Net72=NetName=VBAT_SW|NetColor=$00FF6EFF
-Net73=NetName=VBAT1|NetColor=$00FF6EFF
-Net74=NetName=VCC_1V8|NetColor=$00FFFF6E
-Net75=NetName=VCC_1V8_IO|NetColor=$00164FDE
-Net76=NetName=VCC_1V8_SW|NetColor=$006E6EFF
-Net77=NetName=VCC_IO_12V|NetColor=clYellow
-Net78=NetName=VCC_MCU_3V3|NetColor=$00FFFF6E
-Net79=NetName=VCC_MCU_5V0|NetColor=$0089007D
-Net80=NetName=VCC_SYS_24V0|NetColor=$00FF6E6E
-Net81=NetName=VCC_SYS_5V0|NetColor=$00FF6EFF
-Net82=NetName=VSYS_3V5V|NetColor=$00FF6E6E
+Net24=NetName=INPUT_VCC|NetColor=$008E00C5
+Net25=NetName=INPUT_VCC_24V|NetColor=$00FF6EFF
+Net26=NetName=INPUT_VCC_24V0|NetColor=$00FF6E6E
+Net27=NetName=INPUT_VCC_5V0|NetColor=$00FF6EFF
+Net28=NetName=ISO_3.3V|NetColor=$00FFFF6E
+Net29=NetName=ISO_3.3V_LS_A|NetColor=$00FFFF6E
+Net30=NetName=ISO_3.3V_LS_B|NetColor=$00FFFF6E
+Net31=NetName=ISO_3.3V_LS_X|NetColor=$00FFFF6E
+Net32=NetName=ISO_3.3V_LS_Y|NetColor=$00FFFF6E
+Net33=NetName=ISO_3.3V_LS_Z|NetColor=$00FFFF6E
+Net34=NetName=ISO_3.3V_PH_CY|NetColor=$00FFFF6E
+Net35=NetName=ISO_3.3V_PH_DR|NetColor=$00FFFF6E
+Net36=NetName=ISO_3.3V_PH_FD|NetColor=$00FFFF6E
+Net37=NetName=ISO_3.3V_PH_HLT|NetColor=$00FFFF6E
+Net38=NetName=LED+|NetColor=$00FFFF6E
+Net39=NetName=MCU_GND|NetColor=$0000BE00
+Net40=NetName=MOTOR_VCC_24V|NetColor=$006E6EFF
+Net41=NetName=NetC128_2|NetColor=$00FF6E6E
+Net42=NetName=NetD1_A|NetColor=$00FFFF6E
+Net43=NetName=NetD17_A|NetColor=$00FFFF6E
+Net44=NetName=NetD18_A|NetColor=$00FFFF6E
+Net45=NetName=NetD24_A|NetColor=$00FFFF6E
+Net46=NetName=NetD25_A|NetColor=$00FFFF6E
+Net47=NetName=NetD26_A|NetColor=$00FFFF6E
+Net48=NetName=NetD4_A|NetColor=$00FFFF6E
+Net49=NetName=NetD6_A|NetColor=$00FFFF6E
+Net50=NetName=NetD7_A|NetColor=$00FFFF6E
+Net51=NetName=OSCIN|NetColor=clYellow
+Net52=NetName=OSCOUT|NetColor=clYellow
+Net53=NetName=POWER_OUT_5V|NetColor=$00FF6EFF
+Net54=NetName=PWR_IN_24V|NetColor=$00FF6E6E
+Net55=NetName=RELAY_VCC|NetColor=$000083FD
+Net56=NetName=SCK|NetColor=clYellow
+Net57=NetName=SCK_STEP_X|NetColor=clYellow
+Net58=NetName=SENSOR_VDD|NetColor=$00B0B0B0
+Net59=NetName=SENSOR_VDD_FL|NetColor=$00B0B0B0
+Net60=NetName=SOLAR_OUT|NetColor=$00FF6E6E
+Net61=NetName=SPI2.SPI_CLK|NetColor=clYellow
+Net62=NetName=SPI2_CK|NetColor=clYellow
+Net63=NetName=STEPPER_VCC|NetColor=$0000BE00
+Net64=NetName=STM_NRST|NetColor=clYellow
+Net65=NetName=STP_SCK|NetColor=clYellow
+Net66=NetName=SYS|NetColor=$00FFFF6E
+Net67=NetName=USB_VBUS|NetColor=$00322760
+Net68=NetName=USB1|NetColor=clYellow
+Net69=NetName=USB2|NetColor=clYellow
+Net70=NetName=VBAT_ISP|NetColor=$004C9AF5
+Net71=NetName=VBAT_LOAD|NetColor=$00FF6E6E
+Net72=NetName=VBAT_SENSED|NetColor=$006EFF6E
+Net73=NetName=VBAT_SW|NetColor=$00FF6EFF
+Net74=NetName=VBAT1|NetColor=$00FF6EFF
+Net75=NetName=VCC_1V8|NetColor=$00FFFF6E
+Net76=NetName=VCC_1V8_IO|NetColor=$00164FDE
+Net77=NetName=VCC_1V8_SW|NetColor=$006E6EFF
+Net78=NetName=VCC_IO_12V|NetColor=clYellow
+Net79=NetName=VCC_MCU_3V3|NetColor=$00FFFF6E
+Net80=NetName=VCC_MCU_5V0|NetColor=$0089007D
+Net81=NetName=VCC_SYS_24V0|NetColor=$00FF6E6E
+Net82=NetName=VCC_SYS_5V0|NetColor=$00FF6EFF
+Net83=NetName=VSYS_3V5V|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
