@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GWSWJIXT
 
 [Document7]
-DocumentPath=Schematic\Compute_Module_TOP.SchDoc
+DocumentPath=Schematic\Ethernet_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,57 +407,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DSZOCTAZ
 
 [Document22]
-DocumentPath=Schematic\Compute_Module_EXT_INTERFACES.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=50
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PFVSPWXG
-
-[Document23]
-DocumentPath=Schematic\Compute_Module_POWER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=52
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ILSMVUBV
-
-[Document24]
-DocumentPath=Schematic\Compute_Module_CAMERA.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=53
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RIMPENAZ
-
-[Document25]
 DocumentPath=Schematic\Stepper_driver_group.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document23]
 DocumentPath=Schematic\USB_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFADSARB
 
-[Document27]
+[Document24]
 DocumentPath=Schematic\USB_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,24 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
-DocumentPath=Schematic\SD_Card_Reader.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=57
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AUKFKMFU
-
-[Document29]
+[Document25]
 DocumentPath=Schematic\CANBUS_Pendant.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,24 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
-DocumentPath=Schematic\SD_Card_Reader.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document31]
+[Document26]
 DocumentPath=Schematic\Relay_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFZWKFDK
 
-[Document32]
+[Document27]
 DocumentPath=Schematic\Neopixel_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMBLDPIG
 
-[Document33]
+[Document28]
 DocumentPath=Schematic\External_Stepper.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNKJYLOJ
 
-[Document34]
+[Document29]
 DocumentPath=Schematic\5V_Digital_Out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOJLANYN
 
-[Document35]
+[Document30]
 DocumentPath=Schematic\3V3_Digital_Out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVKHSYWD
 
-[Document36]
+[Document31]
 DocumentPath=Schematic\Transistor_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYUNREXE
 
-[Document37]
+[Document32]
 DocumentPath=Schematic\RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHLBETMB
 
-[Document38]
+[Document33]
 DocumentPath=Schematic\Change Log.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGMPIWUA
 
-[Document39]
+[Document34]
 DocumentPath=Longboard_schematic_export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document35]
 DocumentPath=Schematic\Longboard_32bit.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,8 +644,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
-DocumentPath=Schematic\Compute_Module_TOP.Harness
+[Document36]
+DocumentPath=Schematic\Ethernet_Interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -746,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document37]
 DocumentPath=Longboard_32bit_MFG_Export.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document38]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Zener.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document39]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document40]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document41]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_PNP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document42]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document43]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document44]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MOS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNJWUMFL
 
-[Document50]
+[Document45]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document46]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MCU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document47]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document48]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document49]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document50]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document51]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VITYGUXC
 
-[Document57]
+[Document52]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document53]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document54]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document55]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document56]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document57]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
