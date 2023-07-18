@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Longboard_32bit
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -693,7 +693,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FGGVQLSB
 
 [Document39]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
@@ -710,7 +710,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPNFQUAG
 
 [Document40]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout.PcbLib
@@ -744,7 +744,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WRTBQHMJ
 
 [Document42]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
@@ -761,7 +761,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SNXALUAE
 
 [Document43]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
@@ -778,7 +778,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HLBESONQ
 
 [Document44]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\MOS.SchLib
@@ -829,7 +829,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JSSXFVPY
 
 [Document47]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
@@ -846,7 +846,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SQBERQTN
 
 [Document48]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
@@ -863,7 +863,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CCDDGAMC
 
 [Document49]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
@@ -880,7 +880,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMPXMJDM
 
 [Document50]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
@@ -897,7 +897,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GQNPVBEG
 
 [Document51]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
@@ -931,7 +931,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GBUUCOMP
 
 [Document53]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
@@ -948,7 +948,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JHFWXUNK
 
 [Document54]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
@@ -965,7 +965,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FITEGSRK
 
 [Document55]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
@@ -982,7 +982,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VTPOGMYO
 
 [Document56]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.SchLib
@@ -999,7 +999,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ACUBZLPY
 
 [Document57]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.PcbLib
@@ -1242,7 +1242,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Longboard_32bit
 
 [OutputGroup1]
 Name=Netlist Outputs
