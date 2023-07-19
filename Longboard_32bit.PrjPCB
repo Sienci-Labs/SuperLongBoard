@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Longboard_32bit
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1060,20 +1060,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
+Name=VarRevNo
+Value=B2
 
 [Parameter2]
-Name=PCBREVNO
-Value=B1
-
-[Parameter3]
 Name=Title
 Value=Sienci Longboard
 
+[Parameter3]
+Name=PCBREVNO
+Value=B2
+
 [Parameter4]
-Name=VarRevNo
-Value=B1
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration
@@ -1242,7 +1242,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=Project Outputs for Longboard_32bit
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
