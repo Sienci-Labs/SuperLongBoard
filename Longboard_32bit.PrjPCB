@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Longboard_32bit
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1023,12 +1023,14 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
+VariationCount=7
 Variation1=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
 Variation2=Designator=R9|UniqueId=\CPSRESAS\SMURALDA\XUPQKWMK|Kind=0|AlternatePart= 
 Variation3=Designator=R1|UniqueId=\CPSRESAS\FJOYGKKV\BZTDRCKT|Kind=1|AlternatePart= 
 Variation4=Designator=P9|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\GNAEVRXL|Kind=1|AlternatePart= 
 Variation5=Designator=R10|UniqueId=\CPSRESAS\SMURALDA\HDCLCXLG|Kind=1|AlternatePart= 
+Variation6=Designator=R?|UniqueId=\CPSRESAS\ANCOQXVH\DYBXXQUP\CVHPQEWP|Kind=1|AlternatePart= 
+Variation7=Designator=J19|UniqueId=\CPSRESAS\GEQXKKUU\TZCDYFPM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1061,7 +1063,7 @@ IncludeSubFolders=1
 
 [Parameter1]
 Name=VarRevNo
-Value=B2
+Value=B3
 
 [Parameter2]
 Name=Title
@@ -1069,7 +1071,7 @@ Value=Sienci Longboard
 
 [Parameter3]
 Name=PCBREVNO
-Value=B2
+Value=B3
 
 [Parameter4]
 Name=PCBPARTNO
@@ -1242,7 +1244,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Longboard_32bit
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -2745,11 +2747,17 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Universal_CNC_Breakout.SCHLIB
-ComponentDesignItemID0=UUD1H221MNL1GS
-ComponentSymbolReference0=UUD1H221MNL1GS
+ComponentLibraryIdentifier0=Sienci_Labs.SchLib
+ComponentDesignItemID0=DB2EVC-3.81-7P-GN
+ComponentSymbolReference0=DB2EVC-3.81-7P-GN
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Sienci_Labs.SchLib
+ComponentDesignItemID1=WJ15EDGRC-3.81-3P
+ComponentSymbolReference1=WJ15EDGRC-3.81-3P
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2763,65 +2771,36 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Automotive
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Automotive Grade
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Capacitance
+ParameterName2=Datasheet Link
 ParameterUpdate2=1
-ParameterName3=Comment
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Component Kind
+ParameterName4=Height
 ParameterUpdate4=1
-ParameterName5=ComponentLink2Description
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=ComponentLink2URL
+ParameterName6=Manufacturer
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Manufacturer Part Number
 ParameterUpdate7=1
-ParameterName8=Device Class L1
+ParameterName8=Supplier
 ParameterUpdate8=1
-ParameterName9=Device Class L2
+ParameterName9=SuppliersPartNumber
 ParameterUpdate9=1
-ParameterName10=Device Class L3
+ParameterName10=Value
 ParameterUpdate10=1
-ParameterName11=Digikey Description
-ParameterUpdate11=1
-ParameterName12=Dissipation Factor
-ParameterUpdate12=1
-ParameterName13=Esr
-ParameterUpdate13=1
-ParameterName14=Height
-ParameterUpdate14=1
-ParameterName15=Lead Free
-ParameterUpdate15=1
-ParameterName16=Library Reference
-ParameterUpdate16=1
-ParameterName17=Life
-ParameterUpdate17=1
-ParameterName18=Manufacturer
-ParameterUpdate18=1
-ParameterName19=Manufacturer Part Number
-ParameterUpdate19=1
-ParameterName20=Material
-ParameterUpdate20=1
-ParameterName21=Package
-ParameterUpdate21=1
-ParameterName22=SuppliersPartNumber
-ParameterUpdate22=1
-ParameterName23=Temperature Range High
-ParameterUpdate23=1
-ParameterName24=Tolerance
-ParameterUpdate24=1
-ParameterName25=Value
-ParameterUpdate25=1
-ParameterName26=Voltage Rating
-ParameterUpdate26=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=FP-FKG-MFG
+ModelName0=CONN-TH_5P-P3.81_DB2EVC-3.81-7P
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SHDRRA3W85P0X381_1X3_1231X915X720P
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
