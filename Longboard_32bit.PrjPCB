@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Longboard_32bit
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1023,7 +1023,7 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=9
 Variation1=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
 Variation2=Designator=R9|UniqueId=\CPSRESAS\SMURALDA\XUPQKWMK|Kind=0|AlternatePart= 
 Variation3=Designator=R1|UniqueId=\CPSRESAS\FJOYGKKV\BZTDRCKT|Kind=1|AlternatePart= 
@@ -1031,6 +1031,8 @@ Variation4=Designator=P9|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\GNAEVRXL|
 Variation5=Designator=R10|UniqueId=\CPSRESAS\SMURALDA\HDCLCXLG|Kind=1|AlternatePart= 
 Variation6=Designator=R?|UniqueId=\CPSRESAS\ANCOQXVH\DYBXXQUP\CVHPQEWP|Kind=1|AlternatePart= 
 Variation7=Designator=J19|UniqueId=\CPSRESAS\GEQXKKUU\TZCDYFPM|Kind=1|AlternatePart= 
+Variation8=Designator=R?|UniqueId=\CPSRESAS\ANCOQXVH\DYBXXQUP\ORXPJEMR|Kind=1|AlternatePart= 
+Variation9=Designator=R103|UniqueId=\CPSRESAS\GEQXKKUU\CCUIARQV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1063,7 +1065,7 @@ IncludeSubFolders=1
 
 [Parameter1]
 Name=VarRevNo
-Value=B3
+Value=B4
 
 [Parameter2]
 Name=Title
@@ -1071,7 +1073,7 @@ Value=Sienci Longboard
 
 [Parameter3]
 Name=PCBREVNO
-Value=B3
+Value=B4
 
 [Parameter4]
 Name=PCBPARTNO
@@ -1244,7 +1246,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=Project Outputs for Longboard_32bit
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
