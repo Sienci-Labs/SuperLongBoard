@@ -683,10 +683,11 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=4
 Variation1=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
 Variation2=Designator=P9|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\GNAEVRXL|Kind=1|AlternatePart= 
 Variation3=Designator=R10|UniqueId=\CPSRESAS\SMURALDA\HDCLCXLG|Kind=1|AlternatePart= 
+Variation4=Designator=P15|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\TKCXQAFU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
