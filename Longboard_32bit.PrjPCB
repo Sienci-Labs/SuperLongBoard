@@ -717,20 +717,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
-
-[Parameter2]
-Name=PCBREVNO
+Name=VarRevNo
 Value=B4
 
-[Parameter3]
+[Parameter2]
 Name=Title
 Value=Sienci Longboard
 
+[Parameter3]
+Name=PCBREVNO
+Value=B0.4
+
 [Parameter4]
-Name=VarRevNo
-Value=B4
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration
