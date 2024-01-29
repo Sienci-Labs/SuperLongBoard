@@ -38,11 +38,11 @@ LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
-CrossRefLocationStyle=1
+CrossRefLocationStyle=2
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
+CrossRefFollowFromMainSettings=0
 CurrentVariant=FULL_PLACE
 
 [Preferences]
@@ -710,7 +710,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FGGVQLSB
 
 [Document40]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
@@ -727,7 +727,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPNFQUAG
 
 [Document41]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout_old.PcbLib
@@ -778,7 +778,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WRTBQHMJ
 
 [Document44]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
@@ -795,7 +795,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SNXALUAE
 
 [Document45]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
@@ -812,7 +812,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HLBESONQ
 
 [Document46]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.SchLib
@@ -829,7 +829,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ACUBZLPY
 
 [Document47]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.PcbLib
@@ -863,7 +863,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RNJWUMFL
 
 [Document49]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
@@ -897,7 +897,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JSSXFVPY
 
 [Document51]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
@@ -914,7 +914,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SQBERQTN
 
 [Document52]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
@@ -931,7 +931,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CCDDGAMC
 
 [Document53]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
@@ -948,7 +948,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMPXMJDM
 
 [Document54]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
@@ -965,7 +965,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GQNPVBEG
 
 [Document55]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
@@ -982,7 +982,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VITYGUXC
 
 [Document56]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
@@ -999,7 +999,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GBUUCOMP
 
 [Document57]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
@@ -1016,7 +1016,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JHFWXUNK
 
 [Document58]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
@@ -1033,7 +1033,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FITEGSRK
 
 [Document59]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
@@ -1050,7 +1050,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VTPOGMYO
 
 [Document60]
 DocumentPath=Layout\Longboard_32bit1.PcbLib
@@ -1118,6 +1118,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument4]
 DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_B5_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_B6_FULL_PLACE.xlsx
 DItemRevisionGUID=
 
 [SearchPath1]
