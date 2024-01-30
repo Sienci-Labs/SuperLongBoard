@@ -1091,7 +1091,7 @@ UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
+VariationCount=18
 Variation1=Designator=P8|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\EEXKNDXR|Kind=1|AlternatePart= 
 Variation2=Designator=P9|UniqueId=\CPSRESAS\QKCZCWLU\WPJDROXO\VRUWRUFV\GNAEVRXL|Kind=1|AlternatePart= 
 Variation3=Designator=R10|UniqueId=\CPSRESAS\SMURALDA\HDCLCXLG|Kind=1|AlternatePart= 
@@ -1102,6 +1102,14 @@ Variation7=Designator=R99|UniqueId=\CPSRESAS\QPQVTEPN\WORRLNZE|Kind=1|AlternateP
 Variation8=Designator=R100|UniqueId=\CPSRESAS\ANCOQXVH\DYBXXQUP\CVHPQEWP|Kind=1|AlternatePart= 
 Variation9=Designator=R104|UniqueId=\CPSRESAS\ANCOQXVH\DYBXXQUP\ORXPJEMR|Kind=1|AlternatePart= 
 Variation10=Designator=R173|UniqueId=\CPSRESAS\GEQXKKUU\DGQBYPWI|Kind=1|AlternatePart= 
+Variation11=Designator=J29|UniqueId=\CPSRESAS\GEQXKKUU\IIPBOBMV|Kind=1|AlternatePart= 
+Variation12=Designator=P7|UniqueId=\CPSRESAS\SMURALDA\KTIENMGU|Kind=1|AlternatePart= 
+Variation13=Designator=J35|UniqueId=\CPSRESAS\SMURALDA\IBRMAAYJ|Kind=1|AlternatePart= 
+Variation14=Designator=J22|UniqueId=\CPSRESAS\LBDBXHFT\PKPGICXV|Kind=1|AlternatePart= 
+Variation15=Designator=J23|UniqueId=\CPSRESAS\LBDBXHFT\UQFNRTTY|Kind=1|AlternatePart= 
+Variation16=Designator=J24|UniqueId=\CPSRESAS\LBDBXHFT\RLWSDGXB|Kind=1|AlternatePart= 
+Variation17=Designator=J25|UniqueId=\CPSRESAS\LBDBXHFT\EQSSNVXA|Kind=1|AlternatePart= 
+Variation18=Designator=P22|UniqueId=\CPSRESAS\QPQVTEPN\ERAXREIP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
