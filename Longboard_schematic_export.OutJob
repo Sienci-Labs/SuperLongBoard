@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Longboard_schematic_export.OutJob
 Description=
-TargetOutputMedium=Drill Drawing
-VariantName=FULL_PLACE
-VariantScope=1
+TargetOutputMedium=New Print Job
+VariantName=[No Variations]
+VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Schematic and 3D Prints
 OutputMedium1_Type=Publish
@@ -48,9 +48,9 @@ OutputMedium10_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOp
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
-OutputDocumentPath1=
-OutputVariantName1=Debug
-OutputEnabled1=0
+OutputDocumentPath1=[Project Physical Documents]
+OutputVariantName1=FULL_PLACE
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=1
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=0
@@ -269,7 +269,7 @@ OutputName10=Drill Drawing/Guides
 OutputCategory10=Fabrication
 OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=1
 OutputEnabled10_OutputMedium3=0

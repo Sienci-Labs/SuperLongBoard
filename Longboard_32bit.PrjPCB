@@ -1129,6 +1129,10 @@ DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_B
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_B6.1_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Longboard_32bit\BOM\JLPCB BOM-Longboard_32bit_B6_FULL_PLACE.xlsx
 DItemRevisionGUID=
 
@@ -1149,20 +1153,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard
+Name=VarRevNo
+Value=B6.1
 
 [Parameter2]
-Name=PCBREVNO
-Value=B6
-
-[Parameter3]
 Name=Title
 Value=Sienci Longboard
 
-[Parameter4]
-Name=VarRevNo
+[Parameter3]
+Name=PCBREVNO
 Value=B6
+
+[Parameter4]
+Name=PCBPARTNO
+Value=Sienci Longboard
 
 [Configuration1]
 Name=Default Configuration
